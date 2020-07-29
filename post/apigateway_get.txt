@@ -1,0 +1,57 @@
+{
+	'resource': '/Test', 
+	'path': '/Test', 
+	'httpMethod': 'GET', 
+	'headers': {
+		'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 
+		'Accept-Encoding': 'br, gzip, deflate', 
+		'Accept-Language': 'ja-jp', 
+		'CloudFront-Forwarded-Proto': 'https', 
+		'CloudFront-Is-Desktop-Viewer': 'true', 
+		'CloudFront-Is-Mobile-Viewer': 'false', 
+		'CloudFront-Is-SmartTV-Viewer': 'false', 
+		'CloudFront-Is-Tablet-Viewer': 'false', 
+		'CloudFront-Viewer-Country': 'JP', 
+		'Host': '74lg3maraj.execute-api.ap-northeast-1.amazonaws.com', 
+		'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5', 
+		'Via': '2.0 44f3103b7661179279b0a6eba7e4dea9.cloudfront.net (CloudFront)', 
+		'X-Amz-Cf-Id': '52_ZZt2IKE19FzhCWF5f1vyS-IXScOvPE9UTiWvJj9yFHtniAy6izQ==', 
+		'X-Amzn-Trace-Id': 'Root=1-5a256358-5228892b2dfad3b00ae72959', 
+		'X-Forwarded-For': '59.190.243.26, 205.251.211.162', 
+		'X-Forwarded-Port': '443', 
+		'X-Forwarded-Proto': 'https'
+	}, 
+	'queryStringParameters': None, 
+	'pathParameters': None, 
+	'stageVariables': None, 
+	'requestContext': {
+		'requestTime': '04/Dec/2017:15:01:44 +0000', 
+		'path': '/prod/Test', 
+		'accountId': '816526950375', 
+		'protocol': 'HTTP/1.1', 
+		'resourceId': 'tw6ypd', 
+		'stage': 'prod', 
+		'requestTimeEpoch': 1512399704515, 
+		'requestId': '0af71169-d904-11e7-927c-457807a2da5e', 
+		'identity': {
+			'cognitoIdentityPoolId': None, 
+			'accountId': None, 
+			'cognitoIdentityId': None, 
+			'caller': None, 
+			'apiKey': '', 
+			'sourceIp': '59.190.243.26', 
+			'accessKey': None, 
+			'cognitoAuthenticationType': None, 
+			'cognitoAuthenticationProvider': None, 
+			'userArn': None, 
+			'userAgent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5', 
+			'user': None
+		}, 
+		'resourcePath': '/Test', 
+		'httpMethod': 'GET', 
+		'apiId': '74lg3maraj'
+	}, 
+	'body': None, 
+	'isBase64Encoded': False
+}
+
